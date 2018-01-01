@@ -15,12 +15,12 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class TakeScreenShot {
 	
 		WebDriver driver;
-		String imagePath="C:\\Users\\Desktop\\Sample\\paytm.png";
+		String imagePath="C:\\Users\\Sohail\\OtherDirectoriesLoc\\Desktop\\Screenshots\\paytm.png";
 		File tempFile, permanentFile;
 		TakesScreenshot screenShot;
 
 		public void invokeBrowser() {
-			System.setProperty("webdriver.chrome.driver", "C:\\ChromeDriver\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", "C:\\Users\\Sohail\\OtherDirectoriesLoc\\Desktop\\WebDrivers\\chromedriver.exe");
 			driver = new ChromeDriver();
 			driver.manage().window().maximize();
 			driver.manage().deleteAllCookies();

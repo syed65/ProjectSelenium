@@ -37,16 +37,19 @@ public class CommonDriver {
 			switch (getBrowserTypeIndexed(sBrowserType)) {
 			case 1:
 				System.setProperty("webdriver.gecko.driver",
-						"C:\\Users\\Drivers\\gecko.exe");
+						"C:\\Users\\Sohail\\OtherDirectoriesLoc\\Desktop\\WebDrivers\\gecko.exe");
 				oDriver = new FirefoxDriver();
 				break;
 			case 2:
+				System.setProperty("webdriver.ie.driver",
+						"C:\\Users\\Sohail\\OtherDirectoriesLoc\\Desktop\\WebDrivers\\IEDriverServer.exe");
 				
 				oDriver = new InternetExplorerDriver();
 				break;
 				
 			case 3:
-				System.setProperty("webdriver.chrome.driver", "C:\\ChromeDriver\\chromedriver.exe");
+				System.setProperty("webdriver.chrome.driver",  
+						"C:\\Users\\Sohail\\OtherDirectoriesLoc\\Desktop\\WebDrivers\\chromedriver.exe");
 				oDriver = new ChromeDriver();
 				break;
 			default:

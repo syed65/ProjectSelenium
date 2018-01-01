@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Sohail/SeleniumJar/byte-buddy-1.7.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sohail/SeleniumJar/client-combined-3.7.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sohail/SeleniumJar/client-combined-3.7.1-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sohail/SeleniumJar/commons-codec-1.10.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sohail/SeleniumJar/commons-exec-1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sohail/SeleniumJar/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sohail/SeleniumJar/gson-2.8.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sohail/SeleniumJar/guava-23.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sohail/SeleniumJar/httpclient-4.5.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sohail/SeleniumJar/httpcore-4.4.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Sohail/SeleniumJar/selenium-server-standalone-3.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sohail/OtherDirectoriesLoc/Desktop/Dependencies/Selenium/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sohail/OtherDirectoriesLoc/Desktop/Dependencies/Selenium/client-combined-3.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sohail/OtherDirectoriesLoc/Desktop/Dependencies/Selenium/client-combined-3.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sohail/OtherDirectoriesLoc/Desktop/Dependencies/Selenium/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sohail/OtherDirectoriesLoc/Desktop/Dependencies/Selenium/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sohail/OtherDirectoriesLoc/Desktop/Dependencies/Selenium/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sohail/OtherDirectoriesLoc/Desktop/Dependencies/Selenium/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sohail/OtherDirectoriesLoc/Desktop/Dependencies/Selenium/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sohail/OtherDirectoriesLoc/Desktop/Dependencies/Selenium/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sohail/OtherDirectoriesLoc/Desktop/Dependencies/Selenium/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sohail/OtherDirectoriesLoc/Desktop/Dependencies/Selenium/selenium-server-standalone-3.7.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
